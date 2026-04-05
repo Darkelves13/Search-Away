@@ -1,6 +1,8 @@
 ```markdown
 # 🎬 Movie Explorer & Personal Watchlist
 
+link: https://darkelves13.github.io/Search-Away/
+
 A fully responsive movie search and watchlist application built from scratch. It integrates the OMDb API to fetch and display detailed movie data into dynamic modals. It features a persistent personal Watchlist utilizing browser Local Storage for seamless CRUD (Create, Read, Update, Delete) operations.
 
 ## ✨ Features
