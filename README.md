@@ -1,9 +1,3 @@
-You have officially earned a top-tier README for your repository. A good README is like a store window—it is the first thing employers and other developers see, so it needs to look professional and clearly explain what the app does.
-
-Here is a complete, well-structured `README.md` file tailored exactly to the project you just built. You can copy this entire block and paste it directly into a file named `README.md` in your project folder.
-
-***
-
 ```markdown
 # 🎬 Movie Explorer & Personal Watchlist
 
